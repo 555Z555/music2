@@ -1,4 +1,4 @@
-var mediaJSON = { "categories" : [ { "name" : "MALAYSIA IPTV",
+{ "categories" : [ { "name" : "MALAYSIA IPTV",
         "videos" : [ 
 		    { "description" : "",
               "sources" : [ "http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8" ],
