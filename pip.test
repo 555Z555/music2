@@ -1,16 +1,16 @@
-{ "categories" : [ { "name" : "MALAYSIA IPTV",
+{ "categories" : [ { "name" : "ANIMATION MOVIES",
         "videos" : [ 
 		    { "description" : "",
-              "sources" : [ "http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8" ],
+              "sources" : [ "https://urlbox.paduhq.com/1786088170967344/Frozen.2013.1080p.MALAY.DSNP.WEB-DL.x264.AAC-ExpectHD.mkv" ],
               "subtitle" : "",
-              "thumb" : "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",
-              "title" : "TV1"
+              "thumb" : "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/frozen1.jpg",
+              "title" : "FROZEN 1"
             },
             { "description" : "",
-              "sources" : [ "http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8" ],
+              "sources" : [ "https://urlbox.paduhq.com/1851990149157168/Frozen.II.2019.1080p.MALAY.DSNP.WEB-DL.x264.AAC-ExpectHD.mkv" ],
               "subtitle" : "",
-              "thumb" : "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",
-              "title" : "TV2"
+              "thumb" : "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/frozen2.jpg",
+              "title" : "FROZEN 2"
             },
             { "description" : "",
               "sources" : [ "http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8" ],
