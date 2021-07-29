@@ -72,4 +72,4 @@ var mediaJSON = { "categories" : [ { "name" : "MALAYSIA IPTV",
               "thumb" : "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",
               "title" : "NAURA"
             }
-    ]}]};
+    ]}]}
