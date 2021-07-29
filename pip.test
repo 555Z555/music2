@@ -1,0 +1,75 @@
+var mediaJSON = { "categories" : [ { "name" : "MALAYSIA IPTV",
+        "videos" : [ 
+		    { "description" : "",
+              "sources" : [ "http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8" ],
+              "subtitle" : "",
+              "thumb" : "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",
+              "title" : "TV1"
+            },
+            { "description" : "",
+              "sources" : [ "http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8" ],
+              "subtitle" : "",
+              "thumb" : "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",
+              "title" : "TV2"
+            },
+            { "description" : "",
+              "sources" : [ "http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8" ],
+              "subtitle" : "By Google",
+              "thumb" : "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",
+              "title" : "TV3"
+            },
+            { "description" : "",
+              "sources" : [ "https://raw.githubusercontent.com/555Z555/music3/main/riak.m3u8" ],
+              "subtitle" : "",
+              "thumb" : "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/73_144.png",
+              "title" : "RIA"
+            },
+            { "description" : "",
+              "sources" : [ "https://raw.githubusercontent.com/555Z555/music3/main/rima.m3u8" ],
+              "subtitle" : "",
+              "thumb" : "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png",
+              "title" : "PRIMA"
+            },
+            { "description" : "",
+              "sources" : [ "https://raw.githubusercontent.com/555Z555/music3/main/omar.m3u8" ],
+              "subtitle" : "",
+              "thumb" : "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png",
+              "title" : "OASIS"
+            },
+            { "description" :"", 
+              "sources" : [ "https://raw.githubusercontent.com/555Z555/music3/main/warni.m3u8" ],
+              "subtitle" : "",
+              "thumb" : "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/53_144.png",
+              "title" : "WARNA"
+            },
+	    { "description" : "",
+              "sources" : [ "https://raw.githubusercontent.com/555Z555/music3/main/suko.m3u8" ],
+              "subtitle" : "",
+              "thumb" : "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png",
+              "title" : "CERIA"
+            },
+	    { "description" : "",
+              "sources" : [ "https://raw.githubusercontent.com/555Z555/music3/main/cerita.m3u8" ],
+              "subtitle" : "",
+              "thumb" : "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/60_144.png",
+              "title" : "CITRA"
+            },
+	    { "description" : "", 
+              "sources" : [ "https://raw.githubusercontent.com/555Z555/music3/main/dramasangat.m3u8" ],
+              "subtitle" : "",
+              "thumb" : "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Dramasangat.png",
+              "title" : "DRAMA SANGAT"
+            },
+	    { "description" : "",
+              "sources" : [ "https://raw.githubusercontent.com/555Z555/music3/main/boolaa.m3u8" ],
+              "subtitle" : "",
+              "thumb" : "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",
+              "title" : "BOO"
+            },
+	    { "description" : "",
+              "sources" : [ "https://raw.githubusercontent.com/555Z555/music3/main/nauro.m3u8" ],
+              "subtitle" : "",
+              "thumb" : "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",
+              "title" : "NAURA"
+            }
+    ]}]};
