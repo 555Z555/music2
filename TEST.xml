@@ -12,7 +12,7 @@
     <url>http://www.astro.com.my</url>
   </channel>
   </programme>
-  <programme start="" stop="" channel="EJENALI">
+  <channel="EJENALI">
     <title lang="en">EJEN ALI THE MOVIE</title>
     <desc lang="en">Twelve-year-old Ejen Ali, who works as a spy for a secret agency, MATA, discovers that MATA has now upgraded to a new device called IRIS Neo. However, this new invention leads Ali to question his place and usefulness to MATA. Risking his loyalty to MATA, Ejen Ali embarks on a dangerous course of action in an attempt to prove his value to MATA.</desc>
     <category lang="en">kid movies</category>
@@ -22,7 +22,7 @@
       <value>U</value>
     </rating>
  </programme>
-  <programme start="" stop="" channel="MAYABEE">
+  <channel="MAYABEE">
     <title lang="en">MAYA THE BEE MOVIE</title>
     <desc lang="en">Buzz along with Maya, a curious baby bee so excited about life that she keeps breaking bee colony rules. When she learns that the bees are going to fight the hornets, she decides to act.</desc>
     <category lang="en">kid movies</category>
